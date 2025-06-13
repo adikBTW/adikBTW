@@ -1,4 +1,4 @@
-##Adrian
+#Adrian Vičánek
 # 💫 About Me:
 ✨IT Student
 
